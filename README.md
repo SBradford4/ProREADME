@@ -4,12 +4,12 @@ Video File https://app.screencastify.com/v2/manage/videos/NBDEMd57bUxUlxzVKVRR
 # title
 
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributions](#contributions)
-- [License](#license)
-- [Contact](#contact-us)
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributions](#Contributions)
+- [License](#License)
+- [Contact](#Contact-us)
 
 ## Description
 
